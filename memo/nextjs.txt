@@ -1,0 +1,43 @@
+---
+
+NextJS 
+
+---
+
+🍫 NextJS
+
+-- Theory
+
+Tour of Next
+Pages
+Styles
+Fetching
+Redirects
+Rewrites
+Dynamin URLs
+
+-- Packages
+
+ReactJS
+NextJS
+
+---
+
+#0 INTRODUCTION, #0.0 Welcome, #0.1 Requirements, #0.2 Creating a Project
+
+--🥤 NextJS Setup ( TypeScript 쓰지 않고 )
+: npx create-next-app@latest 
+
+✔ What is your project named? … nextjs-exercise
+✔ Would you like to use TypeScript with this project? … No
+✔ Would you like to use ESLint with this project? … Yes
+✔ Would you like to use `src/` directory with this project? … Yes
+✔ Would you like to use experimental `app/` directory with this project? … Yes
+✔ What import alias would you like configured? … @/*
+
+
+
+
+
+
+
